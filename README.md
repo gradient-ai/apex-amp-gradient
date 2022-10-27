@@ -2,7 +2,7 @@
 
 Last updated: Oct 27th 2022
 
-This repo is packaged with the Paperspace Blog tutorial on running PyTorch with Automatic Mixed Precision training/inference in Gradient Notebooks. Be sure to read the corresponding blog article for this series of tutorial notebooks, which can be found [here](blog.paperspace.com/automatic-mixed-precision-using-pytorch/)
+This repo is packaged with the Paperspace Blog tutorial on running PyTorch with Automatic Mixed Precision training/inference in Gradient Notebooks with NVIDIA apex. Be sure to read the corresponding blog article for this series of tutorial notebooks, which can be found [here](blog.paperspace.com/automatic-mixed-precision-using-pytorch/)
 
 Launch these tutorials in Paperspace Gradient by clicking the link below.
 
